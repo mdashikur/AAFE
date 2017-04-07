@@ -1,0 +1,2 @@
+# AAFE
+ We want to build an android application which will make their cell phone more useful for older. When people became older they have to face many health and mental issues like hearing problem, Vision and memory loss, loneliness, Depression and so on. Nowadays young people also face vision problem. The main purpose of this application is to solve the problems they face while using smart phone and make their phone usage easier and also help themselves when they are in trouble or they need other’s help. 
